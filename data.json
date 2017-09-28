@@ -1,0 +1,15 @@
+{
+  "pins": [{
+    "id": 36,
+    "name": "COMPUTER",
+    "mode": 0,
+    "value": 1,
+    "handle": "PRESS"
+  }, {
+    "id": 38,
+    "name": "MONITOR LIGHTS",
+    "mode": 0,
+    "value": 1,
+    "handle": "TOGGLE"
+  }]
+}
